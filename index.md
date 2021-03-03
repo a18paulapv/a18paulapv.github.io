@@ -14,6 +14,6 @@ public function hola(){
 ```
 [Sintaxis Markdown](https://markdown.es/sintaxis-markdown/)
 
-![Imagen de la web](imagen.png "Código")
+![Imagen de la web](php.png "Código")
 
 [Referencias](referencias.md)
